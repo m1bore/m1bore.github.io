@@ -1,4 +1,5 @@
-body {
+* {
   /*TMP:*/
-  width: 700px;
+  max-width: 45em;
+  text-align: center;
 }
