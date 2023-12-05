@@ -1,5 +1,5 @@
 html {
   /*TMP:*/
-  width: 700px;
+  max-width: 75ch;
   margin: auto;
 }
