@@ -33,7 +33,7 @@
 	font-display: swap;
 	src: local("IBM Plex Sans"), local("IBMPlexSans"), url("../fonts/IBMPlexSans-Regular-English-Spanish-Catalan.woff2") format("woff2");
 }
-/* TODO: aplicar las 5 reglas de la tipografía de Butterick */
+
 html {
   /*TMP:*/
   max-width: 75ch;
@@ -41,4 +41,9 @@ html {
   font-family: 'IBM Plex Sans';
   font-size: 18px;
   line-height: 1.3;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
