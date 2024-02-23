@@ -39,4 +39,6 @@ html {
   max-width: 75ch;
   margin: auto;
   font-family: 'IBM Plex Sans';
+  font-size: 18px;
+  line-height: 1.3;
 }
