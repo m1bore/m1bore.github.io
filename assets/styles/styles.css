@@ -153,12 +153,14 @@ nav a {
   nav ul {
     display: flex;
     flex-flow: column ;
-    position: fixed;
+    position: sticky;
     right: 0.38em;
+    top: 4em;
     justify-content: center;
     background-color: darkgray;
   }
   nav li {
+    padding-left: 0.3em;
     border-top: 0.1em solid;
     padding-top: 1em;
   }
