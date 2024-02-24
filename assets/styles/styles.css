@@ -136,6 +136,7 @@ nav a {
 @media (max-width: 500px) {
   header {
     justify-content: flex-end;
+    overflow: hidden;
   }
   #menu {
     display: block;
